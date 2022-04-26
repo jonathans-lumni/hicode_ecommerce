@@ -1,0 +1,12 @@
+Django==4.0.3
+django-autoslug==1.9.8
+django-debug-toolbar==3.2.4
+django-model-utils==4.2.0
+factory-boy==3.2.1
+ipython==8.2.0
+Pillow==9.1.0
+pytest==7.1.1
+pytest-cov==3.0.0
+pytest-django==4.5.2
+python-decouple==3.6
+sqlparse==0.4.2
